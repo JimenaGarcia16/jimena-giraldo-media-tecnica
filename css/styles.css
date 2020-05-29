@@ -1,0 +1,32 @@
+.titulo {
+    font-family: 'Times New Roman', Times, serif; /*font-family: cambiar el tipo de letra*/
+    font-size: 40px; /*font-size: cambiar tamaño de letra*/
+    text-align: center;/*para centrar el titulo*/
+    color: black;/*para cambiar el color de la letra*/
+}
+
+.nav-item {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif´;
+    display: inline;
+    padding: 10px;
+    font-size: 20px;
+    color: lightcoral;
+}
+.nav-contenedor {
+    text-align: center;
+}
+
+.titulo2 {
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:  rgb(126, 192, 233);
+}
+
+.parrafo-uno {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 19px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
